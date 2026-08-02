@@ -1,4 +1,4 @@
-# PortSwigger WebSecurity Academy Labs
+# WebSecurity Academy Labs
 
 This repo contains the solutions for the PortSwigger Labs available in the Academy section of their website: [https://portswigger.net/web-security/all-labs](https://portswigger.net/web-security/all-labs)
 
@@ -46,19 +46,19 @@ This repo contains the solutions for the PortSwigger Labs available in the Acade
 ### Zip
 
 ```bash
-wget -c https://github.com/blueorionn/portswigger-labs/archive/refs/heads/main.zip -O portswigger-labs.zip && unzip portswigger-labs.zip && rm -f portswigger-labs.zip
+wget -c https://github.com/blueorionn/web-security-academy-labs/archive/refs/heads/main.zip -O web-security-academy-labs.zip && unzip web-security-academy-labs.zip && rm -f web-security-academy-labs.zip
 ```
 
 ### Git: No commit history (faster)**
 
 ```bash
-git clone --depth 1 https://github.com/blueorionn/portswigger-labs.git
+git clone --depth 1 https://github.com/blueorionn/web-security-academy-labs.git
 ```
 
 ### Git: Complete
 
 ```bash
-git clone https://github.com/blueorionn/portswigger-labs.git
+git clone https://github.com/blueorionn/web-security-academy-labs.git
 ```
 
 ## Contributing
