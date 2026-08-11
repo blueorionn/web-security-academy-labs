@@ -19,7 +19,7 @@ This repo contains the solutions for the PortSwigger Labs available in the Acade
 | 10 | Server-side request forgery (SSRF) | :white_check_mark: 2/2 | 2/3 | 1/2 |
 | 11 | XXE injection | :white_check_mark: 2/2 | 0/6 | 0/1 |
 | 12 | NoSQL injection | :white_check_mark: 2/2 | :white_check_mark: 2/2 | - |
-| 13 | API testing | 0/1 | 0/3 | 0/1 |
+| 13 | API testing | :white_check_mark: 1/1 | :white_check_mark: 3/3 | 0/1 |
 | 14 | Web cache deception | 0/1 | 0/3 | 0/1 |
 | -- | **Client-side topics** | -- | -- | -- |
 | 15 | Cross-site scripting (XSS) | :white_check_mark: 9/9 | 0/15 | 0/6 |
